@@ -19,3 +19,5 @@ mulailah dengan filter : dokter umum pada hari senin ( menghasilkan saran , jika
 
 pengembangan belum selesai . meski dibantu koding dengan AI.
 Karena waktu tidak mencukupi : problem instalasi Conda pada OS microsoft gagal hingga waktu akhir , terpaksa pakai linux dalam Virtualisasi .
+
+ada 2 file screen captured.
